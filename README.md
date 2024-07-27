@@ -18,7 +18,7 @@ This is a simple and user-friendly Password Generator application built using Py
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/kritts12/kritika_var1
-    cd password-generator
+    cd kritika_var1
     ```
 
 2. **Install the required packages**:
@@ -63,20 +63,24 @@ Ensure you have Python installed on your system. You will also need to install t
 You can install these libraries using pip:
 ```sh
 pip install pyqrcode pillow
+
+
 Installation
 
 Clone the repository:
+
 sh
+
 git clone https://github.com/kritts12/kritika_var1
-cd qrcode-generator
+cd kritika_var1
 
 Install the required libraries:
+
 sh
 pip install pyqrcode pillow
 
 Usage
-
 Run the application:
+
 sh
 python qrcode_generator.py
-Enter the text you want to encode in the QR code in the entry field and click the "Create" button. The generated QR code will be displayed in the application window and saved as myqr.png in the project directory.
