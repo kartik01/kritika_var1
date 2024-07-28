@@ -113,3 +113,29 @@ This Python script creates a simple To-Do List application using the Tkinter lib
 
 This project provides a basic yet functional example of how to create a GUI application with Tkinter.
 
+
+
+# Login System using CustomTkinter
+
+This project is a simple login system built using the CustomTkinter library, a modern and customizable version of the traditional Tkinter library for creating graphical user interfaces in Python.
+
+## Features
+- **Dark Mode:** The application uses a dark theme for a modern and sleek appearance.
+- **Responsive Design:** The layout adjusts to different window sizes.
+- **User Authentication:** Basic login interface to enter username and password.
+- **Interactive UI Elements:** Includes labels, entry fields, buttons, and checkboxes.
+- **New Window on Login:** A new window opens with a welcome message upon successful login.
+
+## How to Use
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/kritts12/kritika_var1.git
+   ```
+2. **Navigate to the project directory:**
+    ```sh
+    cd kritika_var1
+    ```
+3. **Run the application:**
+    ```sh
+    python login.py
+    ```
