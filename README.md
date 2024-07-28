@@ -68,19 +68,21 @@ pip install pyqrcode pillow
 Installation
 
 Clone the repository:
-
+```bash
 git clone https://github.com/kritts12/kritika_var1
 cd kritika_var1
+```
 
 Install the required libraries:
-
+```bash
 pip install pyqrcode pillow
+```
 
 Usage
 Run the application:
-
+```bash
 python qrcode_generator.py
-
+```
 
 # To-Do List Application
 
