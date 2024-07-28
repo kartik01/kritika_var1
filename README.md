@@ -63,7 +63,7 @@ Ensure you have Python installed on your system. You will also need to install t
 You can install these libraries using pip:
 ```sh
 pip install pyqrcode pillow
-
+```
 
 Installation
 
@@ -80,7 +80,6 @@ Usage
 Run the application:
 
 python qrcode_generator.py
-
 
 
 # To-Do List Application
